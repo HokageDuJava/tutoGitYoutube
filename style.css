@@ -16,5 +16,5 @@ ul{
 }
 
 ul > li:first-of-type{
-    color:yellow;
+    color:palevioletred;
 }
