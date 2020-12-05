@@ -10,3 +10,11 @@ h1{
     text-decoration:underline;
     font-size:2rem;
 }
+
+ul{
+    list-style:none;
+}
+
+ul > li:first-of-type{
+    color:yellow;
+}
